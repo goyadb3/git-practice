@@ -1,5 +1,6 @@
 class Car 
 {
     int hp;
-    int name;
+    string name;
+    int age;
 }
