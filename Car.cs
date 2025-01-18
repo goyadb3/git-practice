@@ -1,4 +1,5 @@
 class Car 
 {
-    int name;
+    string name;
+    int age;
 }
